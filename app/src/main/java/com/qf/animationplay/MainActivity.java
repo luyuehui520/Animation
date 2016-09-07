@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
            public void onClick(View v) {
                startCoin();
                setWallet();
+               //好好学习天天向上
            }
        });
 
